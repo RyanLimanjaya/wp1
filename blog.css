@@ -3,12 +3,17 @@ body {
   padding: 20px;
 }
 #grad {
-  background-image: linear-gradient(to bottom right, #A8FF33, #33FFA8);
+  background-image: linear-gradient(to bottom right, #FFFFFF, #000000);
 }
 
 #grad1 {
   background-image: linear-gradient(to bottom right, #3393FF , #33FFFC);
 }
+
+#grad2 {
+  background-image: linear-gradient(to bottom right, #33A2FF , #FFFFFF);
+}
+
 
 /* Header/Blog Title */
 .header {
@@ -42,7 +47,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-image: linear-gradient(to bottom right, #33A2FF , #FFFFFF);
   padding: 20px;
   margin-top: 20px;
   align-items: center;
