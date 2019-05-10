@@ -5,6 +5,11 @@ body {
 #grad {
   background-image: linear-gradient(to bottom right, #A8FF33, #33FFA8);
 }
+
+#grad1 {
+  background-image: linear-gradient(to bottom right, #3393FF , #33FFFC);
+}
+
 /* Header/Blog Title */
 .header {
   padding: 30px;
